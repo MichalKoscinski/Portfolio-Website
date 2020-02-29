@@ -37,7 +37,7 @@
     min-width: 300px;
     max-width: 330px;
     height: 200px;
-    background-color: #000000;
+    background-color: rgb(14, 10, 29);
     box-shadow: 0px 4px 12px -2px #868686;
     overflow: hidden;
     cursor: default;
@@ -74,5 +74,5 @@
     right: 0;
 }
 .projects__list__item:hover .project-body {
-    background-color: rgba(0, 0, 0, .7);
+    background-color: rgba(14, 10, 29, 0.5);
 }
