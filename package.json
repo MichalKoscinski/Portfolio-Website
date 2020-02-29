@@ -1,13 +1,16 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://michalkoscinski.github.io/Portfolio_Webiste/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
+    "helmet": "^3.21.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
     "react-scripts": "3.4.0"
   },
   "scripts": {

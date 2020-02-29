@@ -1,0 +1,30 @@
+#contact a {
+    cursor: pointer;
+}
+.contact_icon {
+    margin-bottom: -7px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+#contact p {
+    margin: 7px 0;
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity .7s ease-in-out, transform .5s ease-in-out;
+}
+#contact p[class~=active] {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+    .contact_icon {
+        margin-bottom: -10px;
+        width: 30px;
+        height: 30px;
+    }
+}

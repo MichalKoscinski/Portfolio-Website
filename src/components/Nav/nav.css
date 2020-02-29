@@ -1,0 +1,76 @@
+nav {
+    margin-top: 17px;
+    margin-left: -8px;
+    position: fixed;
+    max-width: 1050px;
+    width: 100%;
+    z-index: 15;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(-30px);
+    transition: transform ease-in-out .5s .5s, opacity ease-in-out .5s .5s;
+}
+
+nav[class~=active] {
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.nav__container {
+    position: relative;
+    display: grid;
+    
+}
+.nav__body {
+    justify-self: end;
+    display: none;
+    align-content: start;
+    padding: 15px;
+    grid-gap: 20px;
+    background-color:rgb(55, 53, 66);
+    border: solid #ffffff 1px;
+    border-radius: 2px;
+    right: 0;
+    margin-top: -1px;
+    z-index: 4;
+    color: #ffffff;
+    overflow: hidden;
+    opacity: 0;
+    transform: rotate(-90deg);
+    
+}
+.nav__body[class~=active] {
+    display: grid;
+    opacity: 1;
+    transform: translateX(0%);
+    cursor: pointer;
+}
+.nav__body a {
+    opacity: 0;
+    cursor: pointer;
+}
+.nav__body a[class~=active] {
+    transition: opacity .4s ease-in-out;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.nav__button {
+    justify-self: end;
+    display: grid;
+    align-content: center;
+    grid-gap: 4px;
+    padding: 5px;
+    width: 45px;
+    height: 40px;
+    background-color: rgb(55, 53, 66);
+    border: solid 1px #ffffff;
+    border-radius: 2px;
+    z-index: 5;
+    cursor: pointer;
+}
+.nav__button__line {
+    width: 100%;
+    height: 1px;
+    background-color: #ffffff;
+}
