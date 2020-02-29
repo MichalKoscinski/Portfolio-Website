@@ -20,7 +20,7 @@ function App() {
                   >
                   <Switch location={ location }>
                       <Route exact path="/Portfolio-Website/" component={ Home } />
-                      <Route path="/Portfolio-Website/sections" component={ Sections } />
+                      <Route path="/sections" component={ Sections } />
                   </Switch>
                 </CSSTransition>
               </SwitchTransition>
