@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://michalkoscinski.github.io/Portfolio-Website/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
