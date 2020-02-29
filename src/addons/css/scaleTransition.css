@@ -1,0 +1,21 @@
+.scale-enter {
+    opacity: 0;
+    transform: scale(.8);
+}
+
+.scale-enter-active {
+    opacity: .4;
+    transform: scale(1);
+    transition: opacity .1s ease-in, transform .2s ease-in-out;
+}
+
+.scale-exit {
+    opacity: .4;
+    transform: scale(1);
+}
+
+.scale-exit-active {
+    opacity: 0 !important;
+    transform: scale(.8);
+    transition: opacity .1s, transform .2s ease-in-out;
+}
