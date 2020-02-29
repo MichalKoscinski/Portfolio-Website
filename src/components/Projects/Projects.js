@@ -6,7 +6,7 @@ const Projects = () => {
     const projects = [
         {
             name: 'Portfolio Website',
-            imgSrc: 'portfolio_website.jpg',
+            imgSrc: 'Portfolio_website.jpg',
             description: 'Portfolio you are looking at right now',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Portfolio_Website',

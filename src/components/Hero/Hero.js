@@ -40,7 +40,7 @@ const Hero = () => {
             <div className="mainpage"></div>
             <div className="hero">
                 <div className="me">
-                    <span className="me__name">sssMichał Kościński</span>
+                    <span className="me__name">Michał Kościński</span>
                     <span className="me__as">Applied Mathematics Student at the University of Warwick</span>
                 </div>
 
