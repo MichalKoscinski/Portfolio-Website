@@ -3,10 +3,10 @@ import './aboutMe.css'
 
 const AboutMe = () => {
     return (
-        <section id="about-me" className="about-me">
-            <h1 className="section-name">
+        <section id="about_me" className="about_me">
+            <h1 className="name_section">
                 About me
-                <span className="section-name__background-text"> 1. </span>
+                <span className="name_section__background-text"> 1. </span>
             </h1>
             <div className="description">
                 <p>

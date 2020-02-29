@@ -21,9 +21,9 @@ const Skills = () => {
 
     return (
         <section id="skills">
-            <h1 className="section-name">
+            <h1 className="name_section">
                 Skills
-                <span className="section-name__background-text"> 2. </span>
+                <span className="name_section__background-text"> 2. </span>
             </h1>
              <div className="skills__container">
                 <span className="skills__container__name"> Technologies I have used in my projects </span>

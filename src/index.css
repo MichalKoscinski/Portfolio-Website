@@ -44,20 +44,20 @@ section {
   padding: 10% 15px;
 }
 
-.section-name::first-letter {
+.name_section::first-letter {
   background-color: #120a1b;
   color: #ffffff;
   padding: 0px 4px;
 }
 
-.section-name {
+.name_section {
   justify-self: start;
   position: relative;
   font-size: 40px;
   padding: 18px 0;
 }
 
-.section-name__background-text {
+.name_section__background-text {
   position: absolute;
   left: 30px;
   transform: translateY(-40%);

@@ -5,9 +5,9 @@ import './contact.css'
 const Contact = () => {
     return (
         <section id="contact">
-            <h1 className="section-name">
+            <h1 className="name_section">
                 Contact
-                <span className="section-name__background-text"> 4. </span>
+                <span className="name_section__background-text"> 4. </span>
             </h1>
             <p>
                 <b> E-mail: </b> <a href="mailto:michalkoscinski15@gmail.com">

@@ -44,9 +44,9 @@ const Projects = () => {
 
     return (
         <section id="projects">
-            <h1 className="section-name">
+            <h1 className="name_section">
                 Projects
-                <span className="section-name__background-text"> 3.  </span>
+                <span className="name_section__background-text"> 3.  </span>
             </h1>
             <div className="projects__list">
                 {

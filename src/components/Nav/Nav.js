@@ -38,7 +38,7 @@ const Nav = () => {
                     <HashLink to="/Portfolio-Website/" scroll={ navScroll }>
                         Main page
                     </HashLink>
-                    <HashLink to="sections#about-me" scroll={ navScroll }>
+                    <HashLink to="sections#about_me" scroll={ navScroll }>
                         About me
                     </HashLink>
                     <HashLink to="/Portfolio-Website/sections#skills" scroll={ navScroll }>
