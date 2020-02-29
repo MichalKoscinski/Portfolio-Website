@@ -1,6 +1,5 @@
 import React from 'react'
 import './contact.css'
-import { TitleComponent } from '../../TitleComponent';
 
 
 const Contact = () => {
