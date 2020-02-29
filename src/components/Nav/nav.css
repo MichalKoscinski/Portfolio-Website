@@ -27,7 +27,7 @@ nav[class~=active] {
     align-content: start;
     padding: 15px;
     grid-gap: 20px;
-    background-color:rgb(55, 53, 66);
+    background-color:rgb(14, 10, 29);
     border: solid #ffffff 1px;
     border-radius: 2px;
     right: 0;
@@ -63,7 +63,7 @@ nav[class~=active] {
     padding: 5px;
     width: 45px;
     height: 40px;
-    background-color: rgb(55, 53, 66);
+    background-color: rgb(14, 10, 29);
     border: solid 1px #ffffff;
     border-radius: 2px;
     z-index: 5;
