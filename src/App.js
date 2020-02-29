@@ -2,7 +2,7 @@ import React from 'react';
 import Sections from './views/Sections/Sections'
 import { CSSTransition, SwitchTransition } from 'react-transition-group'
 import './addons/css/fadeTransition.css'
-import { HashRouter as Router, Route, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Home from './views/Home/Home'
 
 

@@ -38,16 +38,16 @@ const Nav = () => {
                     <HashLink to="/" scroll={ navScroll }>
                         Main page
                     </HashLink>
-                    <HashLink to="/sections#about-me" scroll={ navScroll }>
+                    <HashLink to="/Portfolio-Website/sections#about-me" scroll={ navScroll }>
                         About me
                     </HashLink>
-                    <HashLink to="/sections#skills" scroll={ navScroll }>
+                    <HashLink to="/Portfolio-Website/sections#skills" scroll={ navScroll }>
                         Skills
                     </HashLink>
-                    <HashLink to="/sections#projects" scroll={ navScroll }>
+                    <HashLink to="/Portfolio-Website/sections#projects" scroll={ navScroll }>
                         Projects
                     </HashLink>
-                    <HashLink to="/sections#contact" scroll={ navScroll }>
+                    <HashLink to="/Portfolio-Website/sections#contact" scroll={ navScroll }>
                         Contact
                     </HashLink>
                 </div>
