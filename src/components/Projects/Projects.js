@@ -9,8 +9,8 @@ const Projects = () => {
             imgSrc: 'Portfolio_website.jpg',
             description: 'Portfolio you are looking at right now',
             stack: ['React'], 
-            githubUrl: 'https://github.com/MichalKoscinski/Portfolio_Website',
-            demoUrl: 'https://michalkoscinski.github.io/Portfolio_Website'
+            githubUrl: 'https://github.com/MichalKoscinski/Portfolio-Website',
+            demoUrl: 'https://michalkoscinski.github.io/Portfolio-Website'
         },
         {
             name: 'Films Searcher',
