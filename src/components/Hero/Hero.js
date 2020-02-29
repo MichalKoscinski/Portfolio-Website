@@ -47,7 +47,7 @@ const Hero = () => {
                 <div className="menu block">
                     <div className="menu__list">
                         <div className="menu__list__item">
-                            <HashLink to="sections#about-me" scroll={ el => el}>
+                            <HashLink to="/Portfolio-Website/sections#about-me" scroll={ el => el}>
                                 <div className="menu__list__item__body block-m">
                                     <span> About me </span>
                                     <span> 1. </span>
