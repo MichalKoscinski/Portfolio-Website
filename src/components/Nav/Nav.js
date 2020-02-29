@@ -35,7 +35,7 @@ const Nav = () => {
                 </div>
                 
                 <div className={`nav__body ${ isNavBodyActive ? 'active' : '' }`}>
-                    <HashLink to="/" scroll={ navScroll }>
+                    <HashLink to="/Portfolio-Website/" scroll={ navScroll }>
                         Main page
                     </HashLink>
                     <HashLink to="/Portfolio-Website/sections#about-me" scroll={ navScroll }>
