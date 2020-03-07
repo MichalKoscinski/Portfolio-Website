@@ -3,6 +3,7 @@
     opacity: 0;
     transform: translateY(50px);
     transition: opacity .7s ease-in-out, transform .6s ease-in-out;
+    margin-top: 40px;
 }
 .description p[class~=active] {
     opacity: 1;

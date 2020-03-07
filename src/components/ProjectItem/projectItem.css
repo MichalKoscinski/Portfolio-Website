@@ -34,6 +34,7 @@
 
 .projects__list__item {
     position: relative;
+    margin-top: 20px;
     min-width: 300px;
     max-width: 330px;
     height: 200px;

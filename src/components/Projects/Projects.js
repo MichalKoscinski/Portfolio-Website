@@ -15,7 +15,7 @@ const Projects = () => {
         {
             name: 'Films Searcher',
             imgSrc: 'films_searcher.JPG',
-            description: 'Wesbite allowing to search for a film and see its rating',
+            description: 'Website allowing to search for a film and see its rating',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Films_Searcher',
             demoUrl: 'https://michalkoscinski.github.io/Films_Searcher/'
