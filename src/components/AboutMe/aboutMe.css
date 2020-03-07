@@ -13,3 +13,7 @@
 .about_me .description {
     max-width: 1024px;
 }
+
+.about_me {
+    margin-bottom: -70px;
+}
