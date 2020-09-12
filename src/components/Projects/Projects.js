@@ -9,7 +9,7 @@ const Projects = () => {
             imgSrc: 'Social-media.bmp',
             description: 'I used Django REST framework to build web APIs, React and Bootstrap to make the client-side look better and PostgreSQL to communicate between the backend and the frontend',
             stack: ['React, Django'],
-            githubUrl: 'https://github.com/MichalKoscinski/Twitter',
+            githubUrl: 'https://github.com/MichalKoscinski/Social-Media',
             demoUrl: 'https://social-media-michal.herokuapp.com/'
         
         },
