@@ -5,33 +5,37 @@ import ProjectItem from '../../components/ProjectItem/ProjectItem'
 const Projects = () => {
     const projects = [
         {
+            name: 'Social Media Platform',
+            imgSrc: 'Social-media.bmp',
+            description: 'I used Django REST framework to build web APIs, React and Bootstrap to make the client-side look better and PostgreSQL to communicate between the backend and the frontend',
+            stack: ['React, Django'],
+            githubUrl: 'https://github.com/MichalKoscinski/Twitter',
+            demoUrl: 'https://social-media-michal.herokuapp.com/'
+        
+        },
+        {
             name: 'Portfolio Website',
             imgSrc: 'Portfolio_website.jpg',
-            description: 'Portfolio you are looking at right now',
+            description: 'Portfolio you are looking at right now.',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Portfolio-Website',
             demoUrl: 'https://michalkoscinski.github.io/Portfolio-Website'
         },
         {
-            name: 'Films Searcher',
+            name: 'Film search site',
             imgSrc: 'films_searcher.JPG',
-            description: 'Website allowing to search for a film and see its rating',
+            description: 'Website allowing to search for a film and see its rating. Uses IMDb API.',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Films_Searcher',
             demoUrl: 'https://michalkoscinski.github.io/Films_Searcher/'
         },
         {
             name: 'Live Currency Converter',
-            description: 'Currency Converter using live data from ECB',
+            description: "Currency Converter build using ECB's API giving real time data about exchange rates.",
             stack: ['Java'],
             githubUrl: 'https://github.com/MichalKoscinski/CurrencyConverter',
         },
-        {
-            name: 'Online Platform with Art',
-            description: '9GAG-like online platform where instead of funny content there would be pieces of art',
-            stack: ['React'],
-            date: 'Incoming'
-        },
+        
         {
             name: 'Old Portfolio Website',
             imgSrc: 'Old_Portfolio.jpg',

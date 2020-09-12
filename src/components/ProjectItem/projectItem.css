@@ -33,12 +33,13 @@
 }
 
 .projects__list__item {
+    font-size: 15px;
     position: relative;
     margin-top: 20px;
     margin-right: 5px;
     min-width: 300px;
     max-width: 330px;
-    height: 200px;
+    height: 210px;
     background-color: rgb(14, 10, 29);
     box-shadow: 0px 4px 12px -2px #868686;
     overflow: hidden;

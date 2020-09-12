@@ -15,6 +15,7 @@ const Skills = () => {
         { name: 'Git', icon: 'git.png' },
         { name: 'Python', icon: 'python.png' },
         { name: 'R', icon: 'R.png' },
+        { name: 'Django', icon: 'django.png'}
     ]
 
 
