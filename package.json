@@ -1,5 +1,6 @@
 {
-  "name": "my-portfolio",
+  "name": "portfolio-website",
+  "homepage": "https://michalkoscinski-portfolio-website.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
