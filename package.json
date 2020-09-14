@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-website",
-  "homepage": "https://michalkoscinski-portfolio-website.netlify.app",
+  "name": "my-portfolio",
+  "homepage": "https://michalkoscinski.github.io/Portfolio-Website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.1.2",
     "react-router-hash-link": "^1.2.2",
     "react-scripts": "^3.4.3",
     "react-transition-group": "^4.3.0"
