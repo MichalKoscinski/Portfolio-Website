@@ -35,19 +35,19 @@ const Nav = () => {
                 </div>
                 
                 <div className={`nav__body ${ isNavBodyActive ? 'active' : '' }`}>
-                    <HashLink to="/Portfolio-Website/" scroll={ navScroll }>
+                    <HashLink to="/" scroll={ navScroll }>
                         Main page
                     </HashLink>
                     <HashLink to="sections#about_me" scroll={ navScroll }>
                         About me
                     </HashLink>
-                    <HashLink to="/Portfolio-Website/sections#skills" scroll={ navScroll }>
+                    <HashLink to="sections#skills" scroll={ navScroll }>
                         Skills
                     </HashLink>
-                    <HashLink to="/Portfolio-Website/sections#projects" scroll={ navScroll }>
+                    <HashLink to="/sections#projects" scroll={ navScroll }>
                         Projects
                     </HashLink>
-                    <HashLink to="/Portfolio-Website/sections#contact" scroll={ navScroll }>
+                    <HashLink to="/sections#contact" scroll={ navScroll }>
                         Contact
                     </HashLink>
                 </div>

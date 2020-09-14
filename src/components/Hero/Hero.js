@@ -47,7 +47,7 @@ const Hero = () => {
                 <div className="menu block">
                     <div className="menu__list">
                         <div className="menu__list__item">
-                            <HashLink to="/Portfolio-Website/sections#about_me" scroll={ el => el}>
+                            <HashLink to="/sections#about_me" scroll={ el => el}>
                                 <div className="menu__list__item__body1 block-m">
                                     <span>About me </span>
                                     <span> 1.</span>
@@ -56,7 +56,7 @@ const Hero = () => {
                         </div>
 
                         <div className="menu__list__item">
-                            <HashLink to="/Portfolio-Website/sections#skills" scroll={ navScroll }>
+                            <HashLink to="/sections#skills" scroll={ navScroll }>
                                 <div className="menu__list__item__body block-m">
                                     <span> Skills </span>
                                     <span> 2. </span>
@@ -65,7 +65,7 @@ const Hero = () => {
                         </div>
 
                         <div className="menu__list__item">
-                            <HashLink to="/Portfolio-Website/sections#projects" scroll={ navScroll }>
+                            <HashLink to="/sections#projects" scroll={ navScroll }>
                                 <div className="menu__list__item__body block-m">
                                     <span> Projects </span>
                                     <span> 3. </span>
@@ -74,7 +74,7 @@ const Hero = () => {
                         </div>
 
                         <div className="menu__list__item">
-                            <HashLink to="/Portfolio-Website/sections#contact" scroll={ navScroll }>
+                            <HashLink to="/sections#contact" scroll={ navScroll }>
                                 <div className="menu__list__item__body block-m">
                                     <span> Contact </span>
                                     <span> 4. </span>
