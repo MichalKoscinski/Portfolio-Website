@@ -7,7 +7,7 @@ const Projects = () => {
         {
             name: 'Social Media Platform',
             imgSrc: 'Social-media.bmp',
-            description: 'I used Django REST framework to build web APIs, React and Bootstrap to make the client-side look better and PostgreSQL to communicate between the backend and the frontend',
+            description: 'I used Django REST framework to build web APIs, React and Bootstrap to make the client-side look better and PostgreSQL to communicate between the backend and the frontend.',
             stack: ['React, Django'],
             githubUrl: 'https://github.com/MichalKoscinski/Social-Media',
             demoUrl: 'https://social-media-michal.herokuapp.com/'
@@ -19,15 +19,15 @@ const Projects = () => {
             description: 'Portfolio you are looking at right now.',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Portfolio-Website',
-            demoUrl: 'https://michalkoscinski.github.io/Portfolio-Website'
+            demoUrl: 'https://michalkoscinski-portfolio-website.netlify.app/'
         },
         {
-            name: 'Film search site',
+            name: 'Film Search Site',
             imgSrc: 'films_searcher.JPG',
-            description: 'Website allowing to search for a film and see its rating. Uses IMDb API.',
+            description: 'Website allowing to search for a film using IMDb API and see its rating.',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Films_Searcher',
-            demoUrl: 'https://michalkoscinski.github.io/Films_Searcher/'
+            demoUrl: 'https://michalkoscinski-film-search-site.netlify.app/'
         },
         {
             name: 'Live Currency Converter',
@@ -39,7 +39,7 @@ const Projects = () => {
         {
             name: 'Old Portfolio Website',
             imgSrc: 'Old_Portfolio.jpg',
-            description: 'My first project using HTML, CSS and JS',
+            description: 'My first project using HTML, CSS and JS.',
             stack: ['HTML, CS, JS'],
             githubUrl: 'https://github.com/MichalKoscinski/MyWebsite',
             demoUrl: 'https://michalkoscinski.github.io/MyWebsite/',

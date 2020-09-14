@@ -40,7 +40,7 @@ const Hero = () => {
             <div className="mainpage"></div>
             <div className="hero">
                 <div className="me">
-                    <span className="me__name">Michał Kościński</span>
+                    <span className="me__name">Michal Koscinski</span>
                     <span className="me__as">Applied Mathematics Student at the University of Warwick</span>
                 </div>
 
@@ -48,9 +48,9 @@ const Hero = () => {
                     <div className="menu__list">
                         <div className="menu__list__item">
                             <HashLink to="/Portfolio-Website/sections#about_me" scroll={ el => el}>
-                                <div className="menu__list__item__body block-m">
-                                    <span> About me </span>
-                                    <span> 1. </span>
+                                <div className="menu__list__item__body1 block-m">
+                                    <span>About me </span>
+                                    <span> 1.</span>
                                 </div>
                             </HashLink>
                         </div>
@@ -84,7 +84,7 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            <TitleComponent title="Michał's Portfolio" />
+            <TitleComponent title="Michal's Portfolio" />
         </>
     )
 }

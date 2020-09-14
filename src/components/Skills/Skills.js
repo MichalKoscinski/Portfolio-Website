@@ -27,7 +27,7 @@ const Skills = () => {
                 <span className="name_section__background-text"> 2. </span>
             </h1>
              <div className="skills__container">
-                <span className="skills__container__name"> Technologies I have used in my projects </span>
+                <span className="skills__container__name"> Technologies I have used in my projects: </span>
                 <div className="skills__container__list">
                     { technologies.map((tech, index) => (
                       <span key={ index }  className="skills__container__list__item">
