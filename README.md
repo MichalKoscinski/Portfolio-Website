@@ -1,6 +1,6 @@
 Portfolio Website
 
-Link: https://michalkoscinski.github.io/Portfolio-Website/
+Link: https://michalkoscinski-portfolio-website.netlify.app/
 
 Technologies used:
 - React
