@@ -1,13 +1,3 @@
-Portfolio Website
-
-Link: https://michalkoscinski-portfolio-website.netlify.app/
-
-Technologies used:
-- React
-
-![alt text](https://i.ibb.co/55ggSST/Portfolio-website.png)
-
-
 # Portfolio Website
 A portfolio displaying my skills and personal projects, as well as a bit of introduction about myself.
 
