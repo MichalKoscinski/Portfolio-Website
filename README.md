@@ -1,7 +1,7 @@
 # Portfolio Website
 A portfolio displaying my skills and personal projects, as well as a bit of introduction about myself.
 
-The website was deployed using Netlify.
+This website was deployed using Netlify.
 
 ### Preview
 https://michalkoscinski-portfolio-website.netlify.app/
