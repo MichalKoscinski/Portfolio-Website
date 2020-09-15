@@ -30,13 +30,6 @@ const Projects = () => {
             demoUrl: 'https://michalkoscinski-film-search-site.netlify.app/'
         },
         {
-            name: 'Live Currency Converter',
-            description: "Currency Converter build using ECB's API giving real time data about exchange rates.",
-            stack: ['Java'],
-            githubUrl: 'https://github.com/MichalKoscinski/CurrencyConverter',
-        },
-        
-        {
             name: 'Old Portfolio Website',
             imgSrc: 'Old_Portfolio.jpg',
             description: 'My first project using HTML, CSS and JS.',

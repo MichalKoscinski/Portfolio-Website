@@ -16,7 +16,7 @@ const AboutMe = () => {
                 My experience started with competitive programming using Java that I've learnt in high school. Later at university, I have studied computer science fundamentals. Subsequently, I got interested in front-end development and started learning HTML, CSS and JavaScript.
                 </p>
                 <p>
-                Since then, I develop my projects using React - I'm fascinated by how many possibilities it offers. In the future, I plan on developing my skills in data visualisation, so that I can apply the skills I learn in my degree in the real world. This summer, I was an intern at Perflo, where I worked on their app, which measures team performance.
+                Since then, I develop my projects using React - I'm fascinated by how many possibilities it offers. In the future, I plan on developing my skills in data visualisation, so that I can apply what I have studied at Warwick in the real world. This summer, I was an intern at Perflo, where I worked on their app, which measures team performance.
                 </p>
                 <p>
                 To broaden my understanding of software development, I have also been learning a range of different technologies, including Django, Docker and AWS.
