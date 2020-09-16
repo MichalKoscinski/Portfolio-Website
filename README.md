@@ -15,7 +15,6 @@ https://michalkoscinski-portfolio-website.netlify.app/
 $ cd Portfolio-Website
 $ npm install
 $ npm start
-
 ```
 
 ### Commands
