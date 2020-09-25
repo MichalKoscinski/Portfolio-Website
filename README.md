@@ -4,7 +4,7 @@ A portfolio displaying my skills and personal projects, as well as a bit of intr
 This website was deployed using Netlify.
 
 ### Preview
-https://michalkoscinski-portfolio-website.netlify.app/
+https://michalkoscinski.netlify.app/
 
 ### Technologies
 - **React**
