@@ -19,7 +19,7 @@ const Projects = () => {
             description: 'Portfolio you are looking at right now.',
             stack: ['React'], 
             githubUrl: 'https://github.com/MichalKoscinski/Portfolio-Website',
-            demoUrl: 'https://michalkoscinski-portfolio-website.netlify.app/'
+            demoUrl: 'https://michalkoscinski.netlify.app/'
         },
         {
             name: 'Film Search Site',
